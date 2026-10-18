@@ -29,7 +29,7 @@
       <h2>📱 See me on more platforms:</h2>
       <ul>
         <li>📧 Email adress: <a href="mailto:thatonelilypad73@gmail.com">thatonelilypad73@gmail.com</a></li>
-        <li>📷 Instagram: <a href="https://www.instagram.com/thatonelilypad/"></li>
+        <li>📷 Instagram: <a href="https://www.instagram.com/thatonelilypad/">@thatonelilypad</a></li>
           <li>💻 Website: WIP </li>
       </ul>
     </td>
