@@ -31,7 +31,7 @@
         <li>📧 Email adress: <a href="mailto:thatonelilypad73@gmail.com">thatonelilypad73@gmail.com</a></li>
         <li>📷 Instagram: <a href="https://www.instagram.com/thatonelilypad/">@thatonelilypad</a></li>
         <li>📝 freeCodeCamp: <a href="https://www.freecodecamp.org/thatonelilypad73">thatonelilypad73</a></li>
-        <li>📝 itch.io: <a href="https://lilypad73.itch.io/">lilypad73</a></li>
+        <li>🎮 itch.io: <a href="https://lilypad73.itch.io/">lilypad73</a></li>
         <li>💻 Website: WIP </li>
       </ul>
     </td>
