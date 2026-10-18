@@ -1,5 +1,6 @@
 <h1>🪷 Hello world!</h1>
-<p>I am <b>Lilypad</b>, a beginer coder</p>
+<p>I am <b>Lilypad</b>, a beginer coder.</p>
+<img src="https://media.tenor.com/JWFEQcWcJyQAAAAM/happy-catto-cats.gif" alt="happy cat gif">
 <hr>
 <p>I have knowledge on: 
   <ul>
