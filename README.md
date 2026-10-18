@@ -9,6 +9,6 @@
 </p>
 <p>I am currently learning:
   <ul>
-    <li>JavaScript<a href="https://www.w3schools.com/js/" alt="w3schools JavaScript tutorial"><img src="https://img.shields.io/badge/JavaScript-%20%23F7DF1E" alt="JavaScript badge">.</a></li>
+    <li>JavaScript <a href="https://www.w3schools.com/js/" alt="w3schools JavaScript tutorial"><img src="https://img.shields.io/badge/JavaScript-%20%23F7DF1E" alt="JavaScript badge">.</a></li>
   </ul>
 </p>
