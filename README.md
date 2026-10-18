@@ -19,4 +19,19 @@
       </ul>
     </td>
   </tr>
+  <tr>
+    <td colspan="2">
+      <p></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h2>📱 See me on more platforms:</h2>
+      <ul>
+        <li>📧 Email adress: <a href="mailto:thatonelilypad73@gmail.com">thatonelilypad73@gmail.com</a></li>
+        <li>📷 Instagram: <a href="https://www.instagram.com/thatonelilypad/"></li>
+          <li>💻 Website: WIP </li>
+      </ul>
+    </td>
+  </tr>
 </table>
