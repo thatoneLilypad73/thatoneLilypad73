@@ -1,3 +1,6 @@
+<style>
+  h1{color:red;}
+</style>
 <h1>🪷 Hello world!</h1>
 <h3>I am <b>Lilypad</b>, a beginer coder.</h3>
 <img src="https://media.tenor.com/JWFEQcWcJyQAAAAM/happy-catto-cats.gif" alt="happy cat gif">
