@@ -32,7 +32,7 @@
         <li>📷 Instagram: <a href="https://www.instagram.com/thatonelilypad/">@thatonelilypad</a></li>
         <li>📝 freeCodeCamp: <a href="https://www.freecodecamp.org/thatonelilypad73">thatonelilypad73</a></li>
         <li>🎮 itch.io: <a href="https://lilypad73.itch.io/">lilypad73</a></li>
-        <li>💻 Website: WIP </li>
+        <li>💻 Website: Not yet </li>
       </ul>
     </td>
   </tr>
